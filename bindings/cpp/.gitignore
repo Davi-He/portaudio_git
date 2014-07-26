@@ -1,0 +1,7 @@
+/bin
+/bin-*
+/autom4te.cache
+/libtool
+/config.*
+/lib-stamp
+/Makefile

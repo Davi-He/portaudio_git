@@ -1,0 +1,9 @@
+/portaudio-2.0.pc
+/bin
+/bin-*
+/autom4te.cache
+/libtool
+/config.*
+/lib-stamp
+/Makefile
+/build/*
